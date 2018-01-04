@@ -1,0 +1,1 @@
+{"movement_penalties":{"heavy":0,"mega_heavy":0,"medium":0,"coke_light":0,"slightly_very_heavy":0,"being":0,"very_heavy":0,"light":0},"toggle_host":true}

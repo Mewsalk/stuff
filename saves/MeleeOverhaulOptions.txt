@@ -1,0 +1,1 @@
+{"ChargingCallout":false,"BluntForceTrauma":false,"MeleeHold":true,"HandEffect":1,"KillingCallout":false,"Decapitation":false,"ImpactEffect":1,"MessageOfTheDay":true,"MeleeHoldTimer":1,"MeleeHoldTime":false,"RealisticGore":false,"ShakeIntensity":1,"TrueDecapitation":false,"SpurtEffect":1,"TaseEffect":false,"BluntForceMultiplier":1}

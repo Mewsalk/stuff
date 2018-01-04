@@ -1,0 +1,1 @@
+{"dodge":5,"combat":true,"reflex":true,"dom":true,"health":1,"maskup":true,"move":2,"speed":6}
